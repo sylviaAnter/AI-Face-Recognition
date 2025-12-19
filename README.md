@@ -44,7 +44,6 @@ Haar Cascades / CNN for face detection
 
 Face embeddings for recognition
 
-عدلي المكتبة حسب اللي استخدمتيه فعليًا
 
 ⚙️ How It Works
 
